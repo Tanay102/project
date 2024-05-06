@@ -1,0 +1,29 @@
+body
+{
+    background-color: pink;
+    color:white;
+}
+
+.heading
+{
+    width:80%;
+    font-size:22px;
+}
+
+.nameoftheitems
+{
+    color:red;
+}
+
+#camera
+{
+    height:300px;
+    width: 350px;
+    Border:2px dashed black;
+}
+
+.span_result
+{
+    color:blue;
+    font-size:22px;
+}
